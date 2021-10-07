@@ -1,1 +1,1 @@
-# virtual-tourism
+# virtual-tour
